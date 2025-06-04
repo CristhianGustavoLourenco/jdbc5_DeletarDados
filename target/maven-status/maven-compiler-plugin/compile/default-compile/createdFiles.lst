@@ -1,0 +1,4 @@
+com\mycompany\jdbc1\Jdbc5_DeletarDados.class
+db\DbIntegrityException.class
+db\DB.class
+db\DbException.class
